@@ -4,7 +4,7 @@ path = "C:\\Users\\Tanner\\Documents\\"
 inputs = []
 
 doc = Document("C:\\Users\\Tanner\\Documents\\Cover Letter.docx")
-#print(doc.tables[0].rows[0].cells[0].paragraphs[0].text)
+
 keywords = ["[Company]","[Position]"]
 
 for keyword in keywords:
